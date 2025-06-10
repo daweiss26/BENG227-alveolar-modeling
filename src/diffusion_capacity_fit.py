@@ -56,5 +56,7 @@ a_fit, b_fit, c_fit = co2_quad_popt
 print(a_fit, b_fit, c_fit)
 print(str(a_fit)+'*x^2 + '+str(b_fit)+'*x + '+str(c_fit))
 
-y_fit = quadratic_func(porosities_to_map, *co2_quad_popt)
-print(y_fit)
+o2_y_fit = quadratic_func(porosities_to_map, *o2_quad_popt)
+co2_y_fit = quadratic_func(porosities_to_map, *co2_quad_popt)
+print(o2_y_fit)
+print(co2_y_fit)
