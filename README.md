@@ -1,6 +1,6 @@
 # BENG227 Final Project
 
-[Maahi Shah](mas063@ucsd.edu) & [Daniel Weiss](daweiss@ucsd.edu), _[@daweiss26](https://github.com/daweiss26)_
+[Maahi Shah](mas063@ucsd.edu),_[@maahi-99](https://github.com/maahi-99)_ & [Daniel Weiss](daweiss@ucsd.edu), _[@daweiss26](https://github.com/daweiss26)_
 
 This purpose of this project is to take an existing biological transport model and find some way to improve it. We have done so, and we will detail that work here. All other files and work are property of the original authors below.
 
